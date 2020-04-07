@@ -1,0 +1,7 @@
+#search > input {
+    font-size: 90%;
+}
+#search > input[type="submit"] {
+    font-size: 90%;
+    padding: 0px;
+}
